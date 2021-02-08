@@ -24,7 +24,7 @@ require_once __DIR__ . ('/fitness.php');
   <?php 
   echo "<h2>" . $item2->name . "</h2>" . " : " . "<h3>" . $item2->price . "</h3>" .  " - " . "<h3>" . $item2->brand . "</h3>"
   ?>
-  <h1>ITEM GENERALE + FITNESS (qui ho annidato ancora FIGLIO) </h1>
+  <h1>ITEM GENERALE + TECNOLOGY + FITNESS (qui ho annidato ancora FIGLIO) </h1>
   <?php 
   echo "<h2>" . $item3->name . "</h2>" . " : " . "<h3>" . $item3->price . "</h3>" . " - " . "<h3>" . $item3->brand . "</h3>" .  " - "  . "<h3>" . $item3->sport . "</h3>"
   ?>
